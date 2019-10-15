@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Dogs!</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+	<p>Dogs come in various sizes and breeds.</p>
+	<main>
+		<h1>Breeds of dogs:</h1>
+		<p>The Golden Retriever, Beagle, Boxer are are examples of dog breeds.</p>
+	</main>
+	<h3>Golden Retriever</h3>
+	<a href="dog.html">Golden Retreiver Puppy.</a>
+	<a href="https://www.wikihow.com/images/6/64/Stop-a-Dog-from-Jumping-Step-6-Version-2.jpg">Adult Golden Retreiver."</a>
+	</body>
+	<footer>Contact Lila VandenBosch with questions regarding dog breeds.</footer>
+</html>
