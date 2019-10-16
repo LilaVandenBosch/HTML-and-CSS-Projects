@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<nav>
+	<a href="assignment.html">Home</a>
+	<a href="dog.html">Dog Picture</a>
+	<a href="dog_video.html">Dog Video<a/>
+</nav>
+	<head>
+		<title>Dogs!</title>
+		<meta charset="utf-8">
+	</head>
+	<body>
+	<p>Dogs come in various sizes and breeds.</p>
+	<main>
+		<h1>Breeds of dogs:</h1>
+		<p>The Golden Retriever, Beagle and Boxer are are examples of dog breeds.</p>
+	</main>
+	<h3>Golden Retriever</h3>
+	<a href="dog.html">Golden Retreiver Puppy.</a>
+	<a href="https://www.wikihow.com/images/6/64/Stop-a-Dog-from-Jumping-Step-6-Version-2.jpg">Adult Golden Retreiver."</a>
+	<blockquote cite="https://www.homeoanimal.com/blogs/blog-pet-health/81084420-10-golden-retriever-facts-you-need-to-know">"Golden’s are incredible swimmers. Their large webbing between the toes and long tail to aid in steering makes them water-based dogs."</blockquote>
+	<iframe width="814" height="458" src="https://www.youtube.com/embed/Er6I1f4CASE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	</body>
+	<footer>Contact Lila VandenBosch with questions regarding dog breeds.</footer>
+</html>
