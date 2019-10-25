@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<style>
+.beach_style {
+	background-color: #FFE4C4;
+	color: #7FFFD4;
+	text-decoration: bold;
+	font-weight: bold;
+	font-size: medium;
+}
+<p class="beach_style">This paragraph is written in my style!</p>
+</style>
+</html>
