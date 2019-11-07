@@ -1,0 +1,16 @@
+body {
+    font-size: 14px;
+    margin: 0;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    line-height: 1.42857143;
+    color: #333;
+    background-color: #888888;
+    };
+}
+
+img {
+    width: 300px;
+    margin: 0px 3%;
+    border: 1px solid #8D8E8F;
+    border-radius: 20px;
+}
