@@ -9,7 +9,7 @@ html {
     font-size: 62.5%;
     -webkit-tap-highlight-color: rgba(0,0,0,0);
     -webkit-text-size-adjust: 100%;
-    -na-text-size-adjust: 100%;
+    -ms-text-size-adjust: 100%;
 }
 
 body {
@@ -136,7 +136,7 @@ section {
 .menu-container {
     max-height: 340px;
     margin: 0% auto;
-    content: "";
+    content: " ";
     /* Top: 0;
     left: 0; */
     /* position: absolute; */ /* to the top of the screen */
@@ -169,7 +169,7 @@ section {
     font-variant: small-caps;
     color: #fff;
     letter-spacing: 5pt;
-    word-spacing: 21pt;
+    word-spacing: 14pt;
     font-size: 4.5cm;
     text-align: left;
     font-family: impact, sans-serif;
@@ -262,7 +262,7 @@ section {
     border-radius: 7px;
     background: rgb(227,222,222);
     box-shadow: 2px 3px 3px 0px rgba(0,0,0,0.3);
-    font-family: 'Ra;eway', sans-serif;
+    font-family: 'Raleway', sans-serif;
 }
 
 .reservation input[type="text"] {
@@ -279,12 +279,12 @@ section {
     margin: 10px 1cm;
     border-radius: 7px;
     background: #13161b;
-    box-shadow: inset 0px 3px 0px rgba(5,5,5,0.15);
+    box-shadow: inset 0px 3px 0px 0px rgba(5,5,5,0.15);
     font-family: 'Raleway', sans-serif;
 }
 
 .reservation input[type="text"]:hover {
-    box-shadow: 0 0 18px, rgba(100,65,0,.8);
+    box-shadow: 0 0 18px rgba(100,65,0,.8);
 }
 
 .form-spacer {

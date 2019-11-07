@@ -24,7 +24,7 @@
     border-radius: 6px;
     /*background-color: #052136;*/
     cursor: pointer;
-    transition-property: background;
+    transition-property: "background";
     transition-duration: .4s;
     transition-delay: 0s;
     transition-timing-function: ease-in-out;
@@ -45,8 +45,8 @@
     margin-bottom: 2cm;
     overflow: hidden;
     border-radius: 8px;
-    padding: 1px;
-    border: 1px solid #021a40;
+    padding:1px;
+    border:1px solid #021a40;
     background-color: #ff0;
     box-shadow: 2px 2px 10px 0 rgba(0,0,0,0.7);
 }
@@ -61,19 +61,18 @@
 .photo-container img {
     max-width: 100%;
     width: 300px;
-    height: 169px;
-}
+    height: 169px}
 
 .photo-overlay {
     color: #fff;
-    position: absloute;
+    position: "absloute";
     top: 0;
     right: 0;
     bottom: 0;
     left: 0;
     padding-left: 20px;
     padding-right: 20px;
-    jusitfy-content: center; /*For centering text inside .photo-overlay */
+    justify-content: center; /*For centering text inside .photo-overlay */
     align-items: center;
     background: rgba(0,0,0,.5);
 }
@@ -88,7 +87,7 @@
 */
 .photo-overlay {
     opacity: 0;
-    transition: opacity .5s;
+    transition: "opacity" .5s;
     border-radius: 10px;
     cursor: pointer;
 }
@@ -98,7 +97,7 @@
 }
 
 .photo img {
-    transition: transform .5s;
+    transition: "transform" .5s;
     transform-origin: 50% 50%;
 }
 
